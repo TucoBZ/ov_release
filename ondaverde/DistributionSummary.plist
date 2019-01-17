@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>GreenWave.ipa</key>
+	<key>GreenWave HML.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -13,11 +13,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+				<string></string>
 				<key>dateExpires</key>
-				<string>25/10/21</string>
+				<string></string>
 				<key>type</key>
-				<string>iOS Distribution</string>
+				<string>Unknown</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -30,11 +30,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>AKMaskField.framework</string>
@@ -55,11 +55,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>Alamofire.framework</string>
@@ -80,11 +80,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>CPF_CNPJ_Validator.framework</string>
@@ -105,11 +105,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>IQKeyboardManagerSwift.framework</string>
@@ -130,11 +130,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>KeychainAccess.framework</string>
@@ -155,11 +155,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>ObjectMapper.framework</string>
@@ -180,11 +180,36 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
+					</dict>
+					<key>name</key>
+					<string>RxAtomic.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G35H88J7LS</string>
+						<key>name</key>
+						<string>Companhia Brasileira de Solucoes e Servicos</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string></string>
+						<key>dateExpires</key>
+						<string></string>
+						<key>type</key>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>RxCocoa.framework</string>
@@ -205,11 +230,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>RxGesture.framework</string>
@@ -230,11 +255,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>RxSwift.framework</string>
@@ -255,11 +280,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>Swinject.framework</string>
@@ -280,11 +305,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>Toast_Swift.framework</string>
@@ -305,11 +330,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EF74FA9023D0C3D176027D84F5941A707800CDEB</string>
+						<string></string>
 						<key>dateExpires</key>
-						<string>25/10/21</string>
+						<string></string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Unknown</string>
 					</dict>
 					<key>name</key>
 					<string>Valet.framework</string>
@@ -322,28 +347,8 @@
 					</dict>
 				</dict>
 			</array>
-			<key>entitlements</key>
-			<dict>
-				<key>application-identifier</key>
-				<string>G35H88J7LS.br.com.alelo.GreenWave</string>
-				<key>com.apple.developer.team-identifier</key>
-				<string>G35H88J7LS</string>
-				<key>get-task-allow</key>
-				<false/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>G35H88J7LS.br.com.alelo.GreenWave</string>
-				</array>
-			</dict>
 			<key>name</key>
 			<string>GreenWave.app</string>
-			<key>profile</key>
-			<dict>
-				<key>UUID</key>
-				<string>35e8d60f-c03b-4066-9453-37a0999deaa8</string>
-				<key>name</key>
-				<string>iOS Team Inhouse Provisioning Profile: br.com.alelo.GreenWave</string>
-			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
